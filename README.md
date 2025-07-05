@@ -15,8 +15,14 @@ Use Power BI and Excel to perform data summarization, trend analysis, and visual
 -Profitability by Category
 
 
+
 Outcomes
+
 -This project helped develop:
+
 -Dashboarding and visualization skills
+
 -Understanding of sales data trends
+
 -Confidence in using Power BI and Excel in real-world business contexts
+
