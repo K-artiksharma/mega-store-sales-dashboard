@@ -4,14 +4,19 @@ Build an interactive dashboard for business-level insights.
 
 Use Power BI and Excel to perform data summarization, trend analysis, and visual storytelling.
 
-Explore key metrics like:
+-Explore key metrics like:
 
-Region-wise Sales
+-Region-wise Sales
 
-Top-selling Products
+-Top-selling Products
 
-Monthly Sales Trend
+-Monthly Sales Trend
 
-Profitability by Category
+-Profitability by Category
 
 
+Outcomes
+-This project helped develop:
+-Dashboarding and visualization skills
+-Understanding of sales data trends
+-Confidence in using Power BI and Excel in real-world business contexts
