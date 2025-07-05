@@ -2,7 +2,7 @@
 Project Objectives
 Build an interactive dashboard for business-level insights.
 
-Use Power BI and Excel to perform data summarization, trend analysis, and visual storytelling.
+*Use Power BI and Excel to perform data summarization, trend analysis, and visual storytelling.
 
 -Explore key metrics like:
 
