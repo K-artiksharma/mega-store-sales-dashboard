@@ -16,7 +16,7 @@ Use Power BI and Excel to perform data summarization, trend analysis, and visual
 
 
 
-Outcomes
+* Outcomes
 
 -This project helped develop:
 
