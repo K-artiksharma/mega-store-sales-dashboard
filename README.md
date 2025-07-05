@@ -14,6 +14,10 @@ Build an interactive dashboard for business-level insights.
 
 -Profitability by Category
 
+## 📂 Dataset
+
+The dataset used in this project is based on publicly available retail sales data.  
+It contains order-level details including order date, region, product, sales, quantity, discount, and profit.
 
 
 * Outcomes
