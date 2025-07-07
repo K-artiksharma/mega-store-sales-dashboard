@@ -1,32 +1,37 @@
-# 🛍️ Mega Store Sales Dashboard – Power BI & Excel
-Project Objectives
-Build an interactive dashboard for business-level insights.
+# 📊 Mega Store Sales Dashboard – Power BI & Excel
 
-* Use Power BI and Excel to perform data summarization, trend analysis, and visual storytelling.
+### 📌 Project Overview
+This project demonstrates the use of *Power BI* and *Microsoft Excel* to create an interactive dashboard for deriving business-level insights from retail sales data.
 
--Explore key metrics like:
+### 🎯 Objectives
+- Perform data summarization, trend analysis, and visual storytelling
+- Explore key performance indicators such as:
+  - 📍 Region-wise Sales
+  - 📈 Monthly Sales Trend
+  - 💰 Top-selling Products
+  - 📊 Profitability by Category
+  - 🧾 Customer Segments (optional)
+  
+### 🗂️ Dataset
+The dataset is based on *publicly available retail sales data*.
 
--Region-wise Sales
+It includes:
+- Order ID, Order Date, Region, Product Category/Sub-Category
+- Sales, Quantity, Discount, Profit
 
--Top-selling Products
+> ⚠️ No personal or confidential data is used. Dataset is for academic and project use.
 
--Monthly Sales Trend
+---
 
--Profitability by Category
+### ✅ Project Outcomes
+This project helped strengthen:
+- ✔️ Data visualization and dashboarding skills
+- ✔️ Business intelligence understanding
+- ✔️ Confidence in using Power BI and Excel for real-world problem-solving
+- ✔️ Data storytelling and interpretation for decision making
 
-## 📂 Dataset
+---
 
-The dataset used in this project is based on publicly available retail sales data.  
-It contains order-level details including order date, region, product, sales, quantity, discount, and profit.
-
-
-* Outcomes
-
--This project helped develop:
-
--Dashboarding and visualization skills
-
--Understanding of sales data trends
-
--Confidence in using Power BI and Excel in real-world business contexts
-
+### 💻 Tools & Technologies Used
+- *Power BI* (Bar charts, DAX measures, KPIs, slicers, formatting)
+- *Microsoft Excel* (Pivot Tables, Conditional Formatting, Charts)
